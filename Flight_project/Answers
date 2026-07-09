@@ -1,0 +1,10 @@
+Question 
+
+How would you encode the categorical variables like weather condition 
+and airline?
+Categorical variables such as Weather_Conditions,
+Day_of_Week and Airline were encoded using factor conversion in R. 
+When factors are used in a logistic regression model,
+R automatically converts categories into numeric variables
+that the model can understand.
+
